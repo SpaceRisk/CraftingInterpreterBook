@@ -1,4 +1,4 @@
-package java.lang.jlox;
+package lox;
 
 
 import java.io.BufferedReader;
